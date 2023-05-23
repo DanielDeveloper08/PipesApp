@@ -42,10 +42,6 @@ export class MenuComponent {
                             icon: "pi pi-cog",
                             routerLink: "custom"
                         },
-                        {
-                            label: "No Comunes",
-                            icon: "pi pi-globe"
-                        },
                     ]
                 }
 
